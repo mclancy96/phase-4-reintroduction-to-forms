@@ -5,7 +5,7 @@ Welcome to your next step in mastering web development! In this lesson, we'll re
 
 ---
 
-## 1. Forms You Already Know
+## Forms You Already Know
 
 Let's start by recapping what you already know about forms in HTML and React.
 
@@ -82,7 +82,7 @@ export default PostForm;
 
 ---
 
-## 2. How Forms Work: The Lifecycle
+## How Forms Work: The Lifecycle
 
 Let's zoom out and look at the lifecycle of a form submission:
 
@@ -105,7 +105,7 @@ params = {
 
 ---
 
-## 3. A Preview of Rails Forms
+## A Preview of Rails Forms
 
 Now let's see how Rails fits into this process. We'll look at how Rails receives form data, how routes and controllers work, and introduce a key security concept.
 
@@ -188,7 +188,7 @@ This is where Rails truly shines. Rails provides powerful form helpers that let 
 
 ---
 
-## 4. Reflection & Practice
+## Reflection & Practice
 
 1. **Explain in your own words:** What happens when a user submits a form in a web application?
 2. **Code Exercise:** Write an HTML form for creating a new comment with fields for `author` and `body`. Label each input clearly.
